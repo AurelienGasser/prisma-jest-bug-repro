@@ -1,3 +1,11 @@
+Set the test DB in db.ts
+
+```ts
+export const db = "testdb";
+```
+
+Then
+
 ```
 npm i
 npm run init
